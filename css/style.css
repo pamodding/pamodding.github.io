@@ -1,0 +1,122 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700);
+* {
+	outline: none;
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #184376;
+	font: 12px "PT Sans", sans-serif;
+}
+img {
+	border: 0px;
+}
+a:link, a:visited, a:hover, a:active {
+	border: 0px;
+}
+span.b {
+	font-weight: bold;
+}
+span.u {
+	text-decoration: underline;
+}
+span.i {
+	text-decoration: italic;
+}
+div, p, a, form, h1, h2, h3, h4, h5, ul, li {
+	margin: 0px;
+	padding: 0px;
+}
+.clear, .content_404_logo, .content_404, .content_404 span, .content_404_box, .content_404_box_reklama, .footer {
+	clear: both;
+}
+.content_404 h1, .content_404 h3, .footer p {
+	float: left;
+	display: inline;
+}
+.footer ul {
+	float: right;
+	display: inline;
+}
+.content_404 h1, .content_404 h3 {
+	margin-bottom: 62px;
+}
+#content_404 {
+	width: 750px;
+	margin: 0 auto;
+	font: 12px "PT Sans", sans-serif;
+}
+.content_404_logo {
+	width: 83px;
+	margin: 0 auto;
+}
+.content_404_logo img {
+	margin: 48px 0 25px 0;
+}
+.content_404 h1 {
+	font: 700 9em "PT Sans";
+	margin-left: 230px;
+}
+.content_404 h3 {
+	font: 400 2.6em/25px "PT Sans";
+	width: 146px;
+	margin: 45px 0 0 10px;
+	text-align: left;
+}
+.content_404 {
+  border-top: 1px solid #dfdfdf;
+	margin: 50px 0 35px;
+  padding-top: 40px;
+}
+.content_404 span {
+	font: 400 1.6em "PT Sans";
+	display: block;
+	text-align: center;
+}
+.content_404_box {
+	width: 670px;
+	height: 68px;
+	background: #bdd6f4;
+	font-size: 1.2em;
+	padding: 18px 40px 17px 40px;
+	text-align: center;
+	margin: 45px 0;
+}
+.content_404_box p.space {
+	padding-top: 13px;
+}
+.content_404_reklama {
+  margin-bottom: 40px;
+  margin-left: 0;
+	margin-right: 0;
+}
+.content_404_box a, .content_404_box a:hover {
+	color: #184376;
+	font-weight: 700;
+}
+.content_404_box span {
+	font-weight: 700;
+	color: #f0233b;
+}
+.footer {
+	border-top: 1px solid #dfdfdf;
+	padding-top: 11px;
+	font-size: 1em;
+}
+.footer li {
+	display: inline;
+	margin-left: 20px;
+}
+.footer li a, .footer li a:hover {
+	color: #444;
+	text-decoration: none;
+}
+.footer p {
+	color: #b2b2b2;
+}
+.content_404_reklama {
+	width: 100%;
+	text-align: center;
+}
